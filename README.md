@@ -4,13 +4,13 @@
 O ebook criado aborda uma espécie de guia de nutrição personalizado com base nos diferentes tipos corporais: endomorfo, mesomorfo e ectomorfo. Ele explica as características de cada tipo, como identificá-los e fornece recomendações específicas de alimentação para ganho de massa muscular e perda de peso.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
+. IA Generativa ChatGPT para roteirização;
 
-IA Generativa Gamma App para criar o e-book e edição;
+. IA Generativa Gamma App para criar o e-book e edição;
 
-IA Generativa D-id para criação do avatar, dublagem e edição do vídeo;
+. IA Generativa D-id para criação do avatar, dublagem e edição do vídeo;
 
-Youtube para postar o vídeo criado;
+. Youtube para postar o vídeo criado;
 
 ## 🧐 Processo de Criação
 Foi utilizado o ChatGPT para criar um roteiro sobre o tema "biotipos corporais e dietas de emagrecimento e ganho de massa muscular", com o roteiro pronto usei o Gamma App para criação de alguns slides para apresentação. Após esta fase voltei a utilizar o ChatGPT para resumir cada slide "como se fosse um professor" dando uma vídeo-aula, desta forma o texto ficou mais conciso. 
