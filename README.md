@@ -5,8 +5,11 @@ O ebook criado aborda uma espécie de guia de nutrição personalizado com base 
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
+
 IA Generativa Gamma App para criar o e-book e edição;
+
 IA Generativa D-id para criação do avatar, dublagem e edição do vídeo;
+
 Youtube para postar o vídeo criado;
 
 ## 🧐 Processo de Criação
@@ -16,7 +19,7 @@ A partir desta versão resumida de cada slide inseri no D-id o input de texto e 
 ## 🚀 Resultados
 Criação de um ebook com o objetivo de ajudar as pessoas a adaptar suas dietas às suas necessidades individuais, promovendo saúde, condicionamento físico e resultados sustentáveis.
 
-Baixe o ebbok:[Guia-Definitivo-de-Nutricao-para-Diferentes-Tipos-Corporais.pptx](https://github.com/user-attachments/files/17891529/Guia-Definitivo-de-Nutricao-para-Diferentes-Tipos-Corporais.pptx)
+Baixe o ebbok: [Guia-Definitivo-de-Nutricao-para-Diferentes-Tipos-Corporais.pptx](https://github.com/user-attachments/files/17891529/Guia-Definitivo-de-Nutricao-para-Diferentes-Tipos-Corporais.pptx)
 
 Link do site: https://guiabiotipos-eq7dklx.gamma.site/
 
