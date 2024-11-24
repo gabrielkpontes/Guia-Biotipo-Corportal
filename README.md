@@ -1,4 +1,4 @@
-# Guia Definitivo de Nutrição para Diferentes Tipos Corporais 🏋️‍♀️
+# Guia Definitivo de Nutrição para Diferentes Tipos Corporais 🏋️‍♀️ 🍳
 
 ## 📒 Descrição
 O ebook criado aborda uma espécie de guia de nutrição personalizado com base nos diferentes tipos corporais: endomorfo, mesomorfo e ectomorfo. Ele explica as características de cada tipo, como identificá-los e fornece recomendações específicas de alimentação para ganho de massa muscular e perda de peso.
